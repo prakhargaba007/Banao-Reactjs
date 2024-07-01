@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hobby and Passion Platform</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+      }
+
+      .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+      }
+
+      .content {
+        width: 50%;
+        padding: 20px;
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      }
+
+      h1 {
+        color: #333;
+        margin-bottom: 20px;
+      }
+
+      p {
+        color: #666;
+        line-height: 1.6;
+      }
+
+      .form-container {
+        width: 40%;
+        padding: 20px;
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      }
+
+      .buttons {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+      }
+
+      .button {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+
+      .button.google {
+        background-color: #4285f4;
+        color: white;
+      }
+
+      .button.facebook {
+        background-color: #3b5998;
+        color: white;
+      }
+
+      .or-connect {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      input[type="email"],
+      input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+      }
+
+      input[type="checkbox"] {
+        margin-right: 5px;
+      }
+
+      .forgot-password {
+        text-align: right;
+        margin-bottom: 10px;
+      }
+
+      .continue-button {
+        width: 100%;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: white;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+
+      .continue-button:hover {
+        background-color: #0069d9;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="content">
+        <h1>Explore your hobby or passion</h1>
+        <p>
+          Sign-in to interact with a community of fellow hobbyists and an
+          eco-system of experts, teachers, suppliers, classes, workshops, and
+          places to practice, participate or perform. Your hobby may be about
+          visual or performing arts, sports, games, gardening, model making,
+          cooking, indoor or outdoor activities...
+        </p>
+        <p>
+          If you are an expert or a seller, you can Add your Listing and promote
+          yourself, your students, products, services or events. Hop on your
+          hobbyhorse and enjoy the ride.
+        </p>
+      </div>
+      <div class="form-container">
+        <div class="buttons">
+          <button class="button google">
+            <img
+              src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-transparent-svg-vector-bie-1.png"
+              alt="Google Logo"
+              height="20px"
+              width="20px"
+            />
+            Continue with Google
+          </button>
+          <button class="button facebook">
+            <img
+              src="https://www.freepnglogos.com/uploads/facebook-logo-png/facebook-logo-png-transparent-svg-vector-bie-1.png"
+              alt="Facebook Logo"
+              height="20px"
+              width="20px"
+            />
+            Continue with Facebook
+          </button>
+        </div>
+        <div class="or-connect">Or connect with</div>
+        <input type="email" placeholder="Email" required />
+        <input type="password" placeholder="Password" required />
+        <div class="checkbox">
+          <input type="checkbox" id="remember-me" />
+          <label for="remember-me">Remember me</label>
+        </div>
+        <div class="forgot-password">
+          <a href="#">Forgot password?</a>
+        </div>
+        <button class="continue-button">Continue</button>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1469 @@
+.feature1Child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--base-white);
+  width: 1440px;
+  height: 818px;
+}
+.groupChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 1px solid var(--grey-light);
+  box-sizing: border-box;
+  width: 608px;
+  height: 297px;
+}
+.people {
+  position: absolute;
+  top: 2px;
+  left: 64px;
+  font-weight: 600;
+}
+.groupsBlack24dp11Parent {
+  position: absolute;
+  top: 40px;
+  left: 44px;
+  width: 147px;
+  height: 40px;
+}
+.findATeacher {
+  position: absolute;
+  top: 104px;
+  left: 44px;
+  font-size: var(--font-size-lg);
+  font-weight: 300;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 520px;
+}
+.connect {
+  position: absolute;
+  top: 12px;
+  left: 30px;
+  line-height: 16px;
+  font-weight: 600;
+}
+.connectWrapper {
+  position: absolute;
+  top: 217px;
+  left: 44px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 1px solid var(--primary-full);
+  box-sizing: border-box;
+  width: 122px;
+  height: 40px;
+  font-size: var(--text-sm-semibold-size);
+  color: var(--primary-full);
+}
+.rectangleParent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 608px;
+  height: 297px;
+}
+.shoppingBasketBlack24dp2Icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.shoppingBasketBlack24dp2Parent {
+  position: absolute;
+  top: 40px;
+  left: 44px;
+  width: 160px;
+  height: 40px;
+}
+.getIt {
+  position: relative;
+  line-height: 16px;
+  font-weight: 600;
+}
+.getIt :hover {
+  background-color: purple;
+}
+.getItWrapper {
+  position: absolute;
+  top: 217px;
+  left: 44px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 1px solid var(--primary-full);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) 42px;
+  font-size: var(--text-sm-semibold-size);
+  color: var(--primary-full);
+}
+.rectangleGroup {
+  position: absolute;
+  top: 321px;
+  left: 0px;
+  width: 608px;
+  height: 297px;
+}
+.locationOnBlack24dp1Parent {
+  position: absolute;
+  top: 40px;
+  left: 44px;
+  width: 131px;
+  height: 40px;
+}
+.meetUpWrapper {
+  position: absolute;
+  top: 217px;
+  left: 44px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 1px solid var(--primary-full);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) 32px;
+  font-size: var(--text-sm-semibold-size);
+  color: var(--primary-full);
+}
+.rectangleContainer {
+  position: absolute;
+  top: 0px;
+  left: 632px;
+  width: 608px;
+  height: 297px;
+}
+.eventAvailableBlack24dp2Parent {
+  position: absolute;
+  top: 40px;
+  left: 44px;
+  width: 171px;
+  height: 40px;
+}
+.attendWrapper {
+  position: absolute;
+  top: 217px;
+  left: 44px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 1px solid var(--primary-full);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) 36px;
+  font-size: var(--text-sm-semibold-size);
+  color: var(--primary-full);
+}
+.groupDiv {
+  position: absolute;
+  top: 321px;
+  left: 632px;
+  width: 608px;
+  height: 297px;
+}
+.groupParent {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  width: 1240px;
+  height: 618px;
+}
+.feature1 {
+  position: absolute;
+  top: 758px;
+  left: 0px;
+  width: 1440px;
+  height: 818px;
+  font-size: var(--font-size-5xl);
+}
+.groupChild1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 1px solid var(--grey-light);
+  box-sizing: border-box;
+  width: 1240px;
+  height: 330px;
+}
+.areYouA {
+  position: absolute;
+  top: 174px;
+  left: 40px;
+  letter-spacing: 0.02em;
+  line-height: 30px;
+  font-weight: 300;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1160px;
+}
+.addYourOwn {
+  position: absolute;
+  top: 0px;
+  left: 70px;
+  font-weight: 600;
+}
+.addIcon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 54px;
+  height: 54px;
+  overflow: hidden;
+}
+.addYourOwnParent {
+  position: absolute;
+  top: 40px;
+  left: 459px;
+  width: 322px;
+  height: 54px;
+  font-size: var(--font-size-17xl);
+}
+.addNew {
+  position: absolute;
+  top: 12px;
+  left: 29px;
+  line-height: 16px;
+  font-weight: 600;
+}
+.addNewWrapper {
+  position: absolute;
+  top: 250px;
+  left: 40px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 1px solid var(--primary-full);
+  box-sizing: border-box;
+  width: 122px;
+  height: 40px;
+  font-size: var(--text-sm-semibold-size);
+  color: var(--primary-full);
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  width: 1240px;
+  height: 330px;
+}
+.testimonials {
+  position: absolute;
+  top: 1560px;
+  left: 0px;
+  background-color: var(--base-white);
+  width: 1440px;
+  height: 530px;
+  font-size: var(--font-size-lg);
+  color: var(--grey-darkest);
+}
+.instanceChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 1px solid var(--grey-light);
+  box-sizing: border-box;
+  width: 1240px;
+  height: 284px;
+}
+.addYourOwnGroup {
+  width: 232px;
+  position: relative;
+  height: 40px;
+}
+.areYouA1 {
+  width: 1160px;
+  position: relative;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.02em;
+  line-height: 30px;
+  font-weight: 300;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.addNewContainer {
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 1px solid var(--primary-full);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-10xl);
+  font-size: var(--text-sm-semibold-size);
+  color: var(--primary-full);
+}
+.groupContainer {
+  position: absolute;
+  top: calc(50% - 102px);
+  left: calc(50% - 580px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.frameDiv {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  width: 1240px;
+  height: 284px;
+}
+.testimonials1 {
+  position: absolute;
+  top: 1576px;
+  left: 0px;
+  background-color: var(--blue-2);
+  width: 1440px;
+  height: 484px;
+  font-size: var(--font-size-5xl);
+  color: var(--grey-darkest);
+}
+.endChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--blue-2);
+  width: 1440px;
+  height: 662px;
+}
+.icon {
+  position: absolute;
+  top: 21px;
+  left: 0px;
+  width: 531px;
+  height: 280px;
+  overflow: hidden;
+}
+.icon1 {
+  position: absolute;
+  top: 0px;
+  left: 602px;
+  width: 638px;
+  height: 302px;
+  overflow: hidden;
+}
+.parent {
+  position: absolute;
+  top: 330px;
+  left: 100px;
+  width: 1240px;
+  height: 302px;
+}
+.hobby {
+  color: var(--primary-full);
+}
+.community {
+  color: var(--blue-1);
+}
+.yourHobbyYourContainer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-weight: 500;
+}
+.getStarted {
+  position: relative;
+  font-weight: 600;
+}
+.getStartedWrapper {
+  position: absolute;
+  top: 84px;
+  left: 0px;
+  border-radius: var(--br-5xs);
+  background-color: var(--primary-full);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  font-size: var(--font-size-xl);
+  color: var(--base-white);
+}
+.yourHobbyYourCommunityParent {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  width: 565px;
+  height: 130px;
+}
+.goToTop {
+  position: relative;
+  letter-spacing: 0.04em;
+  line-height: 12px;
+  font-weight: 500;
+}
+.goToTopCtrlhomeWrapper {
+  position: absolute;
+  top: 241px;
+  left: 1296px;
+  box-shadow: 0px 0px 5px rgba(120, 120, 120, 0.14);
+  border-radius: var(--br-11xs);
+  background-color: var(--base-white);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 3px 4px;
+  font-size: 10px;
+  color: var(--primary-full);
+}
+.end {
+  position: absolute;
+  top: 2729px;
+  left: 0px;
+  width: 1440px;
+  height: 662px;
+  font-size: var(--font-size-17xl);
+}
+.footerChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--base-white);
+  width: 1440px;
+  height: 380px;
+}
+.quickLinks {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  letter-spacing: 0.01em;
+  line-height: 18px;
+}
+.listings {
+  text-decoration: none;
+  position: absolute;
+  top: 34px;
+  left: 0px;
+  letter-spacing: 0.01em;
+  line-height: 18px;
+  color: inherit;
+}
+.blogPosts {
+  text-decoration: none;
+  position: absolute;
+  top: 60px;
+  left: 0px;
+  letter-spacing: 0.01em;
+  line-height: 18px;
+  color: inherit;
+}
+.shopStore {
+  text-decoration: none;
+  position: absolute;
+  top: 86px;
+  left: 0px;
+  letter-spacing: 0.01em;
+  line-height: 18px;
+  color: inherit;
+}
+.quickLinksParent {
+  position: absolute;
+  top: 0px;
+  left: 580px;
+  width: 87px;
+  height: 130px;
+}
+.faq {
+  text-decoration: none;
+  position: absolute;
+  top: 112px;
+  left: 0px;
+  letter-spacing: 0.01em;
+  line-height: 18px;
+  color: inherit;
+}
+.contactUs {
+  text-decoration: none;
+  position: absolute;
+  top: 138px;
+  left: 0px;
+  letter-spacing: 0.01em;
+  line-height: 18px;
+  color: inherit;
+}
+.hobbycueParent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 156px;
+}
+.otherQueries {
+  text-decoration: none;
+  position: absolute;
+  top: 164px;
+  left: 0px;
+  letter-spacing: 0.01em;
+  line-height: 18px;
+  color: inherit;
+}
+.howDoIParent {
+  position: absolute;
+  top: 0px;
+  left: 280px;
+  width: 110px;
+  height: 182px;
+}
+.wrapper {
+  width: 360px;
+  border: none;
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.rectangleButton {
+  width: 59px;
+  position: absolute;
+  top: 0px;
+  left: 301px;
+}
+.invite {
+  position: absolute;
+  top: 12px;
+  left: 313px;
+  letter-spacing: 0.01em;
+  line-height: 16px;
+  font-weight: 600;
+}
+.emailId {
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  line-height: 16px;
+  color: var(--grey-dark);
+}
+.rectangleParent2 {
+  position: absolute;
+  top: 34px;
+  left: 0px;
+  width: 360px;
+  height: 40px;
+  font-size: var(--font-size-xs);
+  color: var(--base-white);
+}
+.inviteFriendsParent {
+  position: absolute;
+  top: 108px;
+  left: 0px;
+  width: 360px;
+  height: 74px;
+}
+.groupIcon {
+  position: absolute;
+  top: 0px;
+  left: 48px;
+  width: 24px;
+  height: 24px;
+}
+.groupChild2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+.groupChild3 {
+  position: absolute;
+  top: 0px;
+  left: 96px;
+  width: 24px;
+  height: 24px;
+}
+.groupChild4 {
+  position: absolute;
+  top: 0px;
+  left: 144px;
+  width: 24px;
+  height: 24px;
+}
+.groupChild5 {
+  position: absolute;
+  top: 0px;
+  left: 192px;
+  width: 24px;
+  height: 24px;
+}
+.groupChild6 {
+  position: absolute;
+  top: 0px;
+  left: 240px;
+  width: 24px;
+  height: 24px;
+}
+.groupChild7 {
+  position: absolute;
+  top: 0px;
+  left: 288px;
+  width: 24px;
+  height: 24px;
+}
+.groupChild8 {
+  position: absolute;
+  top: 0px;
+  left: 336px;
+  width: 24px;
+  height: 24px;
+}
+.groupParent3 {
+  position: absolute;
+  top: 34px;
+  left: 0px;
+  width: 360px;
+  height: 24px;
+}
+.socialMediaParent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 58px;
+}
+.groupParent2 {
+  position: absolute;
+  top: 0px;
+  left: 857px;
+  width: 360px;
+  height: 182px;
+}
+.groupParent1 {
+  position: absolute;
+  top: 60px;
+  left: 102px;
+  width: 1217px;
+  height: 182px;
+}
+.groupChild9 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--purple-3);
+  width: 1440px;
+  height: 78px;
+}
+.purpleCuesPrivate {
+  position: absolute;
+  top: 30px;
+  left: 615px;
+  letter-spacing: 0.01em;
+  line-height: 18px;
+  font-weight: 500;
+  mix-blend-mode: normal;
+}
+.rectangleParent3 {
+  position: absolute;
+  top: 302px;
+  left: 0px;
+  width: 1440px;
+  height: 78px;
+}
+.footer {
+  position: absolute;
+  top: 3391px;
+  left: 0px;
+  background-color: var(--base-white);
+  width: 1440px;
+  height: 380px;
+  color: var(--grey-darkest);
+}
+.groupChild10 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-5xs);
+  background-color: var(--purple-3);
+  width: 1240px;
+  height: 472px;
+}
+.quoteIcon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.testimonialsParent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 221px;
+  height: 40px;
+}
+.groupWrapper {
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  width: 221px;
+  height: 40px;
+  font-size: var(--font-size-5xl);
+  color: var(--grey-darkest);
+}
+.inAFast {
+  position: absolute;
+  top: 112px;
+  left: 40px;
+  letter-spacing: 0.02em;
+  line-height: 30px;
+  font-weight: 300;
+  color: var(--grey-darker);
+  display: inline-block;
+  width: 1160px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.shubhaNagarajan {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+}
+.classicalDancer {
+  position: absolute;
+  top: 31px;
+  left: 0px;
+  font-size: var(--text-sm-semibold-size);
+  letter-spacing: 0.02em;
+  color: var(--blue-1);
+}
+.shubhaNagarajanParent {
+  position: absolute;
+  top: 24px;
+  left: 124px;
+  width: 180px;
+  height: 52px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 332px;
+  left: 896px;
+  width: 304px;
+  height: 100px;
+}
+.audioTrackChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-5xs);
+  background-color: var(--purple-2);
+  width: 776px;
+  height: 100px;
+}
+.audioTrackItem {
+  position: absolute;
+  top: 30px;
+  left: 32px;
+  border-radius: 50%;
+  background-color: var(--base-white);
+  width: 40px;
+  height: 40px;
+}
+.playArrowBlack24dp1Icon {
+  position: absolute;
+  top: 38px;
+  left: 40px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.audioTrackInner {
+  position: absolute;
+  top: 49px;
+  left: 118px;
+  border-radius: var(--br-11xs);
+  background-color: var(--base-white);
+  width: 468px;
+  height: 2px;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 44px;
+  left: 112px;
+  border-radius: 50%;
+  background-color: var(--primary-full);
+  width: 12px;
+  height: 12px;
+}
+.audioTrackChild1 {
+  position: absolute;
+  top: 19px;
+  left: 684px;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.micBlack24dp1Icon {
+  position: absolute;
+  top: 47px;
+  left: 672px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.div {
+  position: absolute;
+  top: 42px;
+  left: 598px;
+  line-height: 16px;
+}
+.audioTrack {
+  position: absolute;
+  top: 332px;
+  left: 40px;
+  width: 776px;
+  height: 100px;
+  font-size: var(--font-size-xs);
+}
+.rectangleParent4 {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  width: 1240px;
+  height: 472px;
+}
+.testimonials2 {
+  position: absolute;
+  top: 2057px;
+  left: 0px;
+  background-color: var(--base-white);
+  width: 1440px;
+  height: 672px;
+  font-size: var(--font-size-lg);
+  color: var(--primary-full);
+}
+.landingPageSignInChild {
+  position: absolute;
+  top: 2923px;
+  left: 1340px;
+  width: 40px;
+  height: 40px;
+}
+.homeScreenChild {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 720px);
+  background-color: var(--purple-3);
+  width: 1440px;
+  height: 678px;
+}
+.icon2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 337px;
+  height: 216px;
+  overflow: hidden;
+}
+.icon3 {
+  position: absolute;
+  top: 0px;
+  left: 351.4px;
+  width: 345.7px;
+  height: 216px;
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  top: 362px;
+  left: 0px;
+  width: 697.1px;
+  height: 216px;
+}
+.signInToInteract {
+  position: absolute;
+  top: 86px;
+  left: 0px;
+  letter-spacing: 0.02em;
+  line-height: 30px;
+  font-weight: 300;
+  display: inline-block;
+  width: 706px;
+}
+.ifYouAre {
+  position: absolute;
+  top: 222px;
+  left: 1px;
+  letter-spacing: 0.02em;
+  line-height: 30px;
+  font-weight: 300;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 706px;
+}
+.exploreYourHobbyContainer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 0.02em;
+  display: inline-block;
+  font-weight: 600;
+  width: 580px;
+}
+.signInToInteractWithAComParent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 707px;
+  height: 282px;
+}
+.groupParent4 {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  width: 707px;
+  height: 578px;
+}
+.signIn {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-weight: 600;
+}
+.groupChild11 {
+  position: absolute;
+  top: 32px;
+  left: 0px;
+  background-color: var(--primary-full);
+  width: 70px;
+  height: 2px;
+}
+.signInParent {
+  width: 70px;
+  position: relative;
+  height: 34px;
+}
+.joinIn {
+  text-decoration: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-weight: 600;
+  color: inherit;
+}
+.joinInWrapper {
+  width: 67px;
+  position: relative;
+  height: 30px;
+  color: var(--grey-dark);
+}
+.signinjoinin {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-13xl);
+}
+.googleIcon {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.loginWithOtherAccounts {
+  border-radius: var(--br-5xs);
+  background-color: var(--purple-3);
+  border: 1px solid var(--primary-full);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-109xl) var(--padding-xs)
+    var(--padding-5xl);
+  gap: var(--gap-69xl);
+}
+.loginWithOtherAccounts:hover {
+  background-color: var(--purple-2);
+}
+.loginWithOtherAccounts1:hover {
+  background-color: var(--purple-2);
+}
+.loginWithOtherAccounts1 {
+  border-radius: var(--br-5xs);
+  background-color: var(--purple-3);
+  border: 1px solid var(--primary-full);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-100xl) var(--padding-xs)
+    var(--padding-5xl);
+  gap: var(--gap-60xl);
+}
+.loginWithOtherAccountsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  font-size: var(--text-sm-semibold-size);
+}
+.connectWithSeparatorChild {
+  position: absolute;
+  height: 12.5%;
+  width: 36.34%;
+  top: 50%;
+  right: 63.66%;
+  bottom: 37.5%;
+  left: 0%;
+  background-color: var(--grey-light);
+}
+.connectWithSeparatorItem {
+  position: absolute;
+  height: 12.5%;
+  width: 36.1%;
+  top: 50%;
+  right: 0%;
+  bottom: 37.5%;
+  left: 63.9%;
+  background-color: var(--grey-light);
+}
+.orConnectWith {
+  position: absolute;
+  top: 0%;
+  left: 38.29%;
+  line-height: 16px;
+  font-weight: 600;
+}
+.connectWithSeparator {
+  width: 410px;
+  position: relative;
+  height: 16px;
+  color: var(--base-black);
+}
+.email {
+  position: relative;
+  line-height: 16px;
+}
+.inputFields {
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 1px solid var(--grey-lighter);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 80%;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-346xl) var(--padding-xs)
+    var(--padding-xs);
+}
+.component7 {
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 1px solid var(--grey-lighter);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs);
+  gap: var(--gap-293xl);
+}
+.inputFieldsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.checkboxChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-11xs);
+  background-color: var(--purple-3);
+  border: 1px solid var(--primary-full);
+  box-sizing: border-box;
+}
+.checkbox {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+}
+.rememberMe {
+  position: absolute;
+  top: 0px;
+  left: 24px;
+  line-height: 16px;
+  display: inline-block;
+  width: 92px;
+}
+.checkboxParent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 116px;
+  height: 16px;
+}
+.lockBlack24dp1Icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 15.8px;
+  height: 16px;
+  overflow: hidden;
+}
+.forgotPassword {
+  width: 115.4px;
+  position: absolute;
+  top: 0px;
+  left: 23.6px;
+  font-size: smaller;
+  /* scale: 1.500; */
+}
+.lockBlack24dp1Parent {
+  position: absolute;
+  top: 0px;
+  left: 279px;
+  width: 131px;
+  height: 16px;
+}
+.groupParent6 {
+  width: 410px;
+  position: relative;
+  height: 16px;
+}
+.buttons {
+  border-radius: var(--br-5xs);
+  background-color: transparent;
+  border: 1px solid #8064a2;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-153xl);
+  font-size: var(--text-sm-semibold-size);
+}
+.buttons:hover {
+  background-color: #8064a2;
+}
+.buttons:hover .getIt {
+  /* background-color: #8064a2; */
+  color: aliceblue;
+}
+.groupParent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  color: var(--base-black);
+}
+.frameGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  color: var(--grey-dark);
+}
+.frameParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 28px;
+  font-size: var(--font-size-xs);
+  color: var(--grey-darkest);
+}
+.signInForm {
+  position: absolute;
+  top: 103px;
+  left: 930px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  font-size: var(--font-size-xl);
+  color: var(--primary-full);
+}
+.homeScreen {
+  position: absolute;
+  top: 86px;
+  left: 0px;
+  width: 1440px;
+  height: 678px;
+}
+.navbarChild {
+  margin: 0;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  box-shadow: var(--navbar);
+  background-color: var(--base-white);
+  width: 1440px;
+  height: 80px;
+}
+.hobbycueLogoIcon {
+  position: absolute;
+  top: 10px;
+  left: 97px;
+  width: 293.3px;
+  height: 60px;
+  object-fit: cover;
+}
+.searchboxChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-5xs);
+  background-color: var(--grey-hover);
+  border: 1px solid var(--grey-lighter);
+  box-sizing: border-box;
+  width: 300px;
+  height: 40px;
+  mix-blend-mode: normal;
+}
+.searchHere {
+  border: none;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 12px;
+}
+.groupChild12 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 0px var(--br-5xs) var(--br-5xs) 0px;
+  background-color: var(--primary-full);
+  width: 40px;
+  height: 40px;
+}
+.icons8Search1 {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  border-radius: 0px var(--br-5xs) var(--br-5xs) 0px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.rectangleParent5 {
+  position: absolute;
+  top: 0px;
+  left: 260px;
+  width: 40px;
+  height: 40px;
+}
+.searchbox {
+  position: absolute;
+  top: 20px;
+  left: 425px;
+  width: 300px;
+  height: 40px;
+}
+.explore {
+  position: absolute;
+  top: 1px;
+  left: 28px;
+  line-height: 22px;
+  font-weight: 500;
+}
+.exploreIcon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icons8ExpandArrow1 {
+  position: absolute;
+  top: 0px;
+  left: 83px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.exploreParent {
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  width: 107px;
+  height: 24px;
+  cursor: pointer;
+}
+.hobbies {
+  position: absolute;
+  top: 2px;
+  left: 28px;
+  line-height: 22px;
+  font-weight: 500;
+}
+.icons8ExpandArrow11 {
+  position: absolute;
+  top: 0px;
+  left: 90px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.hobbiesChild {
+  width: 19px;
+  position: relative;
+  height: 19px;
+  z-index: 0;
+}
+.hobbiesItem {
+  width: 12px;
+  position: absolute;
+  margin: 0 !important;
+  top: 6px;
+  left: 6px;
+  border-radius: var(--br-12xs-4);
+  height: 12px;
+  z-index: 1;
+}
+.hobbies1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  cursor: pointer;
+}
+.hobbiesParent {
+  position: absolute;
+  top: 8px;
+  left: 131px;
+  width: 114px;
+  height: 24px;
+  cursor: pointer;
+}
+.bookmarkBlack24dp1Icon {
+  position: absolute;
+  top: 8px;
+  left: 269px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.notificationsBlack24dp1Icon {
+  cursor: pointer;
+  position: absolute;
+  top: 8px;
+  left: 317px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.product3Icon {
+  cursor: pointer;
+  position: absolute;
+  top: 8px;
+  left: 365px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.groupChild13 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 1px solid var(--primary-full);
+  box-sizing: border-box;
+  width: 112px;
+  height: 40px;
+}
+.groupChild13:hover {
+  background-color: #8064a2;
+}
+.signIn1:hover .groupChild13 {
+  background-color: #8064a2;
+  color: aliceblue;
+}
+.signIn1 {
+  position: absolute;
+  top: 10px;
+  left: 32px;
+  line-height: 16px;
+  font-weight: 600;
+}
+
+.rectangleParent6 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 112px;
+  height: 40px;
+  /* cursor: pointer; */
+}
+.groupFrame {
+  position: absolute;
+  top: 0px;
+  left: 413px;
+  width: 112px;
+  height: 40px;
+  color: var(--primary-full);
+}
+.groupParent7 {
+  position: absolute;
+  top: 20px;
+  left: 815px;
+  width: 525px;
+  height: 40px;
+}
+.navbar {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 80px;
+}
+.landingPageSignIn {
+  width: 100%;
+  position: relative;
+  background-color: var(--base-white);
+  height: 3771px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--text-sm-semibold-size);
+  color: var(--base-black);
+  font-family: var(--text-sm-semibold);
+}
